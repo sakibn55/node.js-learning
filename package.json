@@ -1,0 +1,23 @@
+{
+  "name": "node.js-learning",
+  "version": "1.0.0",
+  "description": "complete nodejs learning",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sakibn55/node.js-learning.git"
+  },
+  "author": "Nazmus Sakib",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sakibn55/node.js-learning/issues"
+  },
+  "homepage": "https://github.com/sakibn55/node.js-learning#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.3"
+  }
+}
